@@ -1,6 +1,6 @@
 # fitness-tracker
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/breyera/ecommerce?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/breyera/ecommerce?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/breyera/fitness-tracker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/breyera/fitness-tracker?style=flat&logo=appveyor)
 
 ## Description
 
